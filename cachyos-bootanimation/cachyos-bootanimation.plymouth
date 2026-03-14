@@ -23,7 +23,7 @@ DialogClearsFirmwareBackground=false
 MessageBelowAnimation=true
 
 [boot-up]
-UseEndAnimation=true
+UseEndAnimation=false
 UseFirmwareBackground=false
 
 [shutdown]
